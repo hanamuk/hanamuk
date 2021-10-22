@@ -21,15 +21,17 @@ etc...
 
 
 <h3>🤗관심 분야 및 언어</h3>
-- Cross-platform, Cloud etc...
+       
 
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=black">
+<img src="https://img.shields.io/badge/Go-9999FF?style=for-the-badge&logo=Go&logoColor=black">
 <img src="https://img.shields.io/badge/Amazon AWS-000000?style=for-the-badge&logo=Amazon AWS&logoColor=black">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-E30E17?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
+
+- Cross-platform, Cloud etc. 
 
 </div>
 
