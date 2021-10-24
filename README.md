@@ -33,5 +33,15 @@
 
 - Cross-platform, Cloud etc. 
 
+
+
+<h3>🌎주요 경험</h3>
+
+대한민국 제 7회 융합해커톤 우수상(정보통신진흥원장상)  
+비트컴퓨터 - Windows .NET 고급과정 및 전문가과정 수료  
+산학협력 프로젝트(무인 주문결제 시스템, 공정 관리프로그램)  
+북경이공대학교 BigData Course  
+Northwestern University Summer BigData Course    
+한국장학재단 사회리더멘토링 
 </div>
 
