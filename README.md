@@ -4,10 +4,14 @@
 
 
 [업무 이력]
-(현) (주)비트컴퓨터 Bit-Plus 개발팀
+(주)비트컴퓨터 개발팀
 클라우드 웹 EMR개발
 
-
+- 라우드 웹 EMR 비트플러스 기능개발 및 운영 배포(NCP)
+- 제증명 페이지 이벤트버스기반에서 Props 기반 변경하여 성능향상
+- 외부 연동(크레소티, 마인즈AI, 스마트CRM, PACS) 개발
+- Stomp, WebSocket을 통한 내부 메신저 개발
+- 통계, 예약, 접수, 관리자페이지, 입원페이지 개발 등
 
 <h3>💻주요 프로젝트</h3>
 
@@ -29,16 +33,15 @@
 <h3>🤗관심 분야 및 언어</h3>
        
 
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black">
-<img src="https://img.shields.io/badge/Go-9999FF?style=for-the-badge&logo=Go&logoColor=black">
-<img src="https://img.shields.io/badge/Amazon AWS-000000?style=for-the-badge&logo=Amazon AWS&logoColor=black">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-#326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-#7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 
 
 
-- Cross-platform, Cloud etc. 
+- Azure Cloud, Naver Cloud
 
 
 
