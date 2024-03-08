@@ -7,9 +7,9 @@
 (주)비트컴퓨터 개발팀
 클라우드 웹 EMR개발
 
-- 라우드 웹 EMR 비트플러스 기능개발 및 운영 배포(NCP)
+- 클라우드 웹 EMR 비트플러스 기능개발, 고시반영 및 프로젝트 운영/배포(Naver - NKS, Azure - AKS )
 - 제증명 페이지 이벤트버스기반에서 Props 기반 변경하여 성능향상
-- 외부 연동(크레소티, 마인즈AI, 스마트CRM, PACS) 개발
+- 외부 연동(닥톡, 크레소티, 마인즈AI, 스마트CRM, PACS, 올마이티 등) 개발
 - Stomp, WebSocket을 통한 내부 메신저 개발
 - 통계, 예약, 접수, 관리자페이지, 입원페이지 개발 등
 
@@ -23,16 +23,15 @@
 
 <h3>🛠주요 사용 도구</h3>
 <div>
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">&nbsp;
+
 
 
 
 <h3>🤗관심 분야 및 언어</h3>
        
 
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
