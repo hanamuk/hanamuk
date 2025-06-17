@@ -25,7 +25,7 @@
 <div>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">&nbsp;
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamuk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
